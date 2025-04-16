@@ -94,6 +94,5 @@ python flappybird.py
 
 ## 📌 References
 
-- [Pygame Documentation](https://www.pygame.org/docs/)
 - [Original FlappyBird inspiration](https://en.wikipedia.org/wiki/Flappy_Bird)
 
