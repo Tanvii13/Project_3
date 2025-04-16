@@ -102,44 +102,6 @@ python flappybird.py
 
 ---
 
-## 🌱 Future Work & Enhancements
-
-- ✅ Add AI (NEAT algorithm) to learn to play FlappyBird (popular extension)
-- 🟡 High-score system with local persistence
-- 🟡 Sound toggle settings and UI improvements
-- 🟡 Game restart without reloading
-- 🟡 Support for multiplayer or competitive score leaderboard
-- 🟡 Difficulty scaling with score
-
----
-
-## 🚀 Contribution Work (if applicable)
-
-✅ We created a Pull Request that:
-- Fixes bug: Pipe overlap rendering at high FPS (PR #xyz)
-- Adds a new background skin toggle feature
-- Positive feedback received from the maintainer
-
-> _We’ll explain this PR in detail during the viva._
-
----
-
-## 🤛 FAQs Students Might Ask
-
-1. **Why use `pygame.Rect` instead of pixel-by-pixel collision?**
-   - Faster and more optimized collision detection.
-
-2. **How are pipes randomized?**
-   - Pipe gap position is randomized within a fixed vertical range using `random.randint()`.
-
-3. **Is frame rate control important?**
-   - Yes. A stable `FPS` (usually 30) ensures consistent gameplay experience.
-
-4. **How is gravity implemented?**
-   - A velocity variable increases each frame, mimicking acceleration due to gravity.
-
----
-
 ## 📌 References
 
 - [Pygame Documentation](https://www.pygame.org/docs/)
