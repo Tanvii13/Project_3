@@ -69,16 +69,6 @@ python flappybird.py
 
 ---
 
-## 📸 Screenshots
-
-### Start Screen
-![start screen](https://github.com/sourabhv/FlapPyBird/raw/master/screenshots/screenshot1.png)
-
-### In-Game
-![in-game](https://github.com/sourabhv/FlapPyBird/raw/master/screenshots/screenshot2.png)
-
----
-
 ## 🧱 Data Structures Used
 
 | Data Structure | Usage                                                                 |
